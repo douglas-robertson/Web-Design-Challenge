@@ -1,0 +1,21 @@
+body  {
+  background-image: url("world_colors.jpg");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  position: relative;
+}
+
+H2{
+  font-weight: bold;
+  color: lightseagreen;
+  padding: 50px;
+}
+#pad{
+  padding:10px
+}
+H3{
+  color: lightseagreen;
+}
